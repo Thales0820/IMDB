@@ -1,0 +1,28 @@
+.card {
+    box-shadow: 0 0 10px #ccc;
+    margin-bottom: 20px;
+}
+
+.card img {
+    border-radius: 5px 5px 0 0;
+}
+
+.text-center a {
+    background-color: #ffc107;
+}
+
+footer p {
+    color: #ccc;
+}
+
+.tarja {
+    width: 100%;
+    box-shadow: 0 0 10px #ccc;
+    padding: 15px;
+    color: #333;
+    border-radius: 5px;
+}
+
+.tarja img {
+    border-radius: 5px;
+}
